@@ -1,0 +1,24 @@
+{
+    "uuid": "c0b39b04-c42e-4aa3-81f9-debc453309ca",
+    "shortName": "Cyan",
+    "longName": "Cyan",
+    "companyName": "Tristan Maat",
+    "versionLabel": "1.0",
+    "sdkVersion": "3",
+    "targetPlatforms": ["aplite", "basalt"],
+    "watchapp": {
+        "watchface": true
+    },
+    "appKeys": {
+        "dummy": 0
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "font",
+                "name": "TERMINUS_BOLD_16",
+                "file": "fonts/TerminusTTF-Bold-4.39.ttf"
+            }
+        ]
+    }
+}
